@@ -1,0 +1,6 @@
+E:\01_CODING\AP\ap-final-cs-hanhndth1808055\finalexamaphanhndth1808055\bin\Debug\finalexamaphanhndth1808055.exe
+E:\01_CODING\AP\ap-final-cs-hanhndth1808055\finalexamaphanhndth1808055\bin\Debug\finalexamaphanhndth1808055.pdb
+E:\01_CODING\AP\ap-final-cs-hanhndth1808055\finalexamaphanhndth1808055\obj\Debug\finalexamaphanhndth1808055.csprojAssemblyReference.cache
+E:\01_CODING\AP\ap-final-cs-hanhndth1808055\finalexamaphanhndth1808055\obj\Debug\finalexamaphanhndth1808055.csproj.CoreCompileInputs.cache
+E:\01_CODING\AP\ap-final-cs-hanhndth1808055\finalexamaphanhndth1808055\obj\Debug\finalexamaphanhndth1808055.exe
+E:\01_CODING\AP\ap-final-cs-hanhndth1808055\finalexamaphanhndth1808055\obj\Debug\finalexamaphanhndth1808055.pdb
